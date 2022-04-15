@@ -3,3 +3,5 @@ target
 .bsp
 project/project/target
 project/target
+/spark-warehouse/
+/metastore_db/
